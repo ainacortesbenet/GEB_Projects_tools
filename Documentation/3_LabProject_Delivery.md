@@ -22,5 +22,5 @@ To change the object, we just needed to change a small text in the Python script
 
 
 ### Conclusion
-We think that this lab was a very good introduction to organizing our projects. Since we had never used GitHub before, it was all new to us, but we see why it is so useful for saving code and working together. In our project we will need to use an ESP32 and connect it with RFID technology, so we think that this lab session and mainly the part of setting up the Arduino  will be very useful for our project.
+We think that this lab was a very good introduction to organizing our projects. Since we had never used GitHub before, it was all new to us, but we see why it is so useful for saving code and working together. In our project we will need to use an ESP32 and connect it with RFID technology, so we think that this lab session and mainly the part of setting up the Arduino  will be very useful for our project. We also believe that this knowledge will be useful when we start working on our TFG, since it will probably include coding documents that we have to store and share in GibHub.
 
